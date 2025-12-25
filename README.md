@@ -48,6 +48,23 @@ Focus: representation learning, constraints, generalisation
 - Strong focus on principled modeling and clean software design
 
 ---
+
+## Tools & stack
+
+**Languages**
+- Python (primary)
+- Bash / shell scripting
+
+**ML & scientific computing**
+- PyTorch, NumPy, SciPy
+- Physics-informed ML frameworks
+
+**Data & systems**
+- Linux-based workflows
+- Experiment tracking and reproducibility
+- Version control with Git
+ 
+---
 ## Contact
 
 - GitHub: https://github.com/suchitakulkarni
