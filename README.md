@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I’m Suchita Kulkarni
 
-<!--
-**suchitakulkarni/suchitakulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a machine learning engineer with a background in theoretical physics, focused on models that integrate structure, constraints, and domain knowledge into learning systems.
 
-Here are some ideas to get you started:
+My work sits at the intersection of machine learning, dynamical systems, and scientific modeling, with an emphasis on robustness, interpretability, and generalisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Core interests
+
+- Physics-informed and structure-aware machine learning  
+- Time-series modeling and dynamical systems  
+- Generative models with inductive bias  
+- Bridging scientific modeling and production ML
+
+---
+
+## Selected projects
+
+### 🔹 Physics-Informed Learning for Dynamical Systems
+End-to-end implementation of physics-informed neural networks and related approaches for learning and discovering differential equations from data.
+
+Repository: <link>  
+Focus: inductive bias, generalisation, failure modes
+
+---
+
+### 🔹 Time-Series Modeling and Anomaly Detection
+Comparative study of classical and neural approaches for structured time-series, with emphasis on evaluation and interpretability.
+
+Repository: <link>  
+Focus: modeling assumptions, robustness, diagnostics
+
+---
+
+### 🔹 Structure-Aware Generative Models
+Experiments with generative models constrained by known symmetries or physical structure.
+
+Repository: <link>  
+Focus: representation learning, constraints, generalisation
+
+---
+
+## Background
+
+- PhD-level training in theoretical physics  
+- Experience leading research-oriented ML projects  
+- Strong focus on principled modeling and clean software design
+
+---
+## Contact
+
+- GitHub: https://github.com/suchitakulkarni
+- LinkedIn: https://www.linkedin.com/in/suchitakulkarni/
