@@ -21,8 +21,9 @@ My work sits at the intersection of machine learning, dynamical systems, and sci
 
 Physics-aware anomaly detection for networked systems. Improved sensitivity to rare, physically meaningful anomalies while stabilizing false-positive rates.
 
-Repository: [https://pinnlearning.streamlit.app/](https://physics-informed-latency-pred.streamlit.app/)
+Repository: https://pinnlearning.streamlit.app/](https://physics-informed-latency-pred.streamlit.app/)
 Focus: Development of interpretable, robust, physics informed system with uncertainty estimation
+
 ---
 
 ### 🔹 Time-Series Modeling and Anomaly Detection
