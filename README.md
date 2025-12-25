@@ -47,7 +47,7 @@ Focus: representation learning, constraints, generalisation
 
 ## Background
 
-- PhD-level training in theoretical physics  
+- PhD and habilitation in theoretical physics  
 - Experience leading research-oriented ML projects  
 - Strong focus on principled modeling and clean software design
 
