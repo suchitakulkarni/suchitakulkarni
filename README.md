@@ -17,26 +17,26 @@ My work sits at the intersection of machine learning, dynamical systems, and sci
 
 ## Selected projects
 
-### 🔹 Physics-Informed Learning for Dynamical Systems
-End-to-end implementation of physics-informed neural networks and related approaches for learning and discovering differential equations from data.
+### 🔹 Physics-Informed Latency prediction
 
-Repository: <link>  
-Focus: inductive bias, generalisation, failure modes
+Physics-aware anomaly detection for networked systems. Improved sensitivity to rare, physically meaningful anomalies while stabilizing false-positive rates.
 
+Repository: [https://pinnlearning.streamlit.app/](https://physics-informed-latency-pred.streamlit.app/)
+Focus: Development of interpretable, robust, physics informed system with uncertainty estimation
 ---
 
 ### 🔹 Time-Series Modeling and Anomaly Detection
 Comparative study of classical and neural approaches for structured time-series, with emphasis on evaluation and interpretability.
 
-Repository: <link>  
+Repository: https://pinnlearning.streamlit.app/
 Focus: modeling assumptions, robustness, diagnostics
 
 ---
 
 ### 🔹 Structure-Aware Generative Models
-Experiments with generative models constrained by known symmetries or physical structure.
+Experiments with generative models constrained by known physical structure.
 
-Repository: <link>  
+Repository: (In progress)
 Focus: representation learning, constraints, generalisation
 
 ---
