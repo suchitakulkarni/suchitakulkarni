@@ -30,7 +30,7 @@ Focus: Development of interpretable, robust, physics informed system with uncert
 ### 🔹 Time-Series Modeling and Anomaly Detection
 Comparative study of classical and neural approaches for structured time-series, with emphasis on evaluation and interpretability.
 
-[Code](https://github.com/suchitakulkarni/PI-LSTM)  [app exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
+[Code](https://github.com/suchitakulkarni/PI-LSTM)            [app exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
 
 Focus: modeling assumptions, robustness, diagnostics
 
