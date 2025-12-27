@@ -21,7 +21,7 @@ My work sits at the intersection of machine learning, dynamical systems, and sci
 
 Physics-aware anomaly detection for networked systems. Improved sensitivity to rare, physically meaningful anomalies while stabilizing false-positive rates.
 
-Repository: https://pinnlearning.streamlit.app/](https://physics-informed-latency-pred.streamlit.app/)
+Repository: [app](https://physics-informed-latency-pred.streamlit.app/)
 
 Focus: Development of interpretable, robust, physics informed system with uncertainty estimation
 
@@ -30,7 +30,7 @@ Focus: Development of interpretable, robust, physics informed system with uncert
 ### 🔹 Time-Series Modeling and Anomaly Detection
 Comparative study of classical and neural approaches for structured time-series, with emphasis on evaluation and interpretability.
 
-Repository: https://pinnlearning.streamlit.app/
+[Code](https://github.com/suchitakulkarni/PI-LSTM)  [app exploring hyperparameter importance] (https://pinnlearning.streamlit.app/)
 
 Focus: modeling assumptions, robustness, diagnostics
 
