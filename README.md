@@ -28,7 +28,7 @@ Focus: Development of interpretable, robust, physics informed system with uncert
 
 ---
 
-### 🔹 Time-Series Modeling and Anomaly Detection
+### 🔹 Physics-Informed Time-Series Modeling and Anomaly Detection
 Comparative study of classical and neural approaches for structured time-series, with emphasis on evaluation and interpretability.
 
 - [Code](https://github.com/suchitakulkarni/PI-LSTM)
