@@ -47,6 +47,17 @@ Focus: representation learning, constraints, generalisation
 
 ---
 
+### 🔹 Remaining Unit Life predictions on NASA turbofan dataset
+Predictions for remaining unit life with uncertainty quantification for NASA turbofan dataset
+
+- [Code](https://github.com/suchitakulkarni/NASA_RUL_Predictions)
+- [Streamlit interface for results](https://nasaruldashboard.streamlit.app/)
+
+Focus: representation learning, constraints, generalisation
+
+
+---
+
 ## Background
 
 - PhD and habilitation in theoretical physics  
