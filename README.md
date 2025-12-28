@@ -23,50 +23,50 @@ Physics-aware anomaly detection for networked systems, where available data is s
 
 The model prioritises physically meaningful anomalies over purely data-driven sensitivity, favouring stability and interpretability under limited observability.
 
-- Focus: interpretable modeling, robustness, uncertainty estimation
+Focus: interpretable modeling, robustness, uncertainty estimation
   
-- Implementation: linear regression, probabilistic anomaly detection
-  * [Code](https://github.com/suchitakulkarni/Physics_informed_latenty_prediction)
-  * [Streamlit interface](https://physics-informed-latency-pred.streamlit.app/)
+Implementation: linear regression, probabilistic anomaly detection
+  - [Code](https://github.com/suchitakulkarni/Physics_informed_latenty_prediction)
+  - [Streamlit interface](https://physics-informed-latency-pred.streamlit.app/)
 
 ---
 
 ### 🔹 Physics-Informed Time-Series Modeling and Anomaly Detection
 
-- Comparative study of physics-informed LSTM and purely data-driven LSTM models for oscillatory time-series analysis and anomaly detection.
+Comparative study of physics-informed LSTM and purely data-driven LSTM models for oscillatory time-series analysis and anomaly detection.
 
-- The work favours physics-informed constraints to stabilise detection performance under stricter decision thresholds, trading raw flexibility for more consistent behaviour.
+The work favours physics-informed constraints to stabilise detection performance under stricter decision thresholds, trading raw flexibility for more consistent behaviour.
 
-- Focus: modeling assumptions, robustness, diagnostics
+Focus: modeling assumptions, robustness, diagnostics
   
-- Implementation: LSTM architectures, physics-informed loss terms, threshold-based evaluation
-  * [Code](https://github.com/suchitakulkarni/PI-LSTM)
-  * [Streamlit interface exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
+Implementation: LSTM architectures, physics-informed loss terms, threshold-based evaluation
+  - [Code](https://github.com/suchitakulkarni/PI-LSTM)
+  - [Streamlit interface exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
 ---
 
 ### 🔹 Structure-Aware Generative Models
 
-- Exploration of VAE-based generative models in settings where unconstrained samples violate known physical structure.
+Exploration of VAE-based generative models in settings where unconstrained samples violate known physical structure.
 
-- The approach constrains generation to preserve physical validity, accepting reduced diversity in exchange for consistency and downstream usability.
+The approach constrains generation to preserve physical validity, accepting reduced diversity in exchange for consistency and downstream usability.
 
-- Focus: representation learning, constraints, generalisation
+Focus: representation learning, constraints, generalisation
   
-- Implementation: variational autoencoders, structured latent spaces, constraint-based regularisation
-  * Repository: (In progress)
+Implementation: variational autoencoders, structured latent spaces, constraint-based regularisation
+  - Repository: (In progress)
 ---
 
 ### 🔹 Remaining Useful Life predictions on NASA turbofan dataset
 
-- Remaining useful life estimation on the NASA turbofan dataset under heterogeneous operating conditions, with explicit uncertainty quantification.
+Remaining useful life estimation on the NASA turbofan dataset under heterogeneous operating conditions, with explicit uncertainty quantification.
 
-- The model emphasises calibrated uncertainty over sharp point estimates, accepting wider intervals to reduce overconfident end-of-life failures.
+The model emphasises calibrated uncertainty over sharp point estimates, accepting wider intervals to reduce overconfident end-of-life failures.
 
-- Focus: uncertainty quantification, robustness, representation learning
+Focus: uncertainty quantification, robustness, representation learning
   
-- Implementation: random forests, uncertainty calibration, hyperparameter optimisation
-  * [Code](https://github.com/suchitakulkarni/NASA_RUL_Predictions)
-  * [Streamlit interface for results](https://nasaruldashboard.streamlit.app/)
+Implementation: random forests, uncertainty calibration, hyperparameter optimisation
+  - [Code](https://github.com/suchitakulkarni/NASA_RUL_Predictions)
+  - [Streamlit interface for results](https://nasaruldashboard.streamlit.app/)
 ---
 
 ## Background
