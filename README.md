@@ -19,9 +19,9 @@ My work sits at the intersection of machine learning, dynamical systems, and sci
 
 ### 🔹  Physics-Informed Latency Prediction and Anomaly Detection
 
-- Physics-aware anomaly detection for networked systems, where available data is sparse and reliable extrapolation is required.
+Physics-aware anomaly detection for networked systems, where available data is sparse and reliable extrapolation is required.
 
-- The model prioritises physically meaningful anomalies over purely data-driven sensitivity, favouring stability and interpretability under limited observability.
+The model prioritises physically meaningful anomalies over purely data-driven sensitivity, favouring stability and interpretability under limited observability.
 
 - Focus: interpretable modeling, robustness, uncertainty estimation
   
