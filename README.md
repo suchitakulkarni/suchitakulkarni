@@ -85,7 +85,7 @@ My work sits at the intersection of machine learning, dynamical systems, and sci
 
 **ML & scientific computing**
 - PyTorch, NumPy, SciPy
-- Physics-informed ML frameworks
+- Custom Physics-informed ML frameworks
 
 **Data & systems**
 - Linux-based workflows
