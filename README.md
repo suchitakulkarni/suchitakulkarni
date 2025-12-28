@@ -41,7 +41,7 @@ My work sits at the intersection of machine learning, dynamical systems, and sci
   
 - Implementation: LSTM architectures, physics-informed loss terms, threshold-based evaluation
   * [Code](https://github.com/suchitakulkarni/PI-LSTM)
-  * [Stremlit interface exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
+  * [Streamlit interface exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
 ---
 
 ### 🔹 Structure-Aware Generative Models
@@ -56,7 +56,7 @@ My work sits at the intersection of machine learning, dynamical systems, and sci
   * Repository: (In progress)
 ---
 
-### 🔹 Remaining Unit Life predictions on NASA turbofan dataset
+### 🔹 Remaining Useful Life predictions on NASA turbofan dataset
 
 - Remaining useful life estimation on the NASA turbofan dataset under heterogeneous operating conditions, with explicit uncertainty quantification.
 
