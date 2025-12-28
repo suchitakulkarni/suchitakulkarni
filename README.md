@@ -17,6 +17,18 @@ My work sits at the intersection of machine learning, dynamical systems, and sci
 
 ## Selected projects
 
+### 🔹  Physics-Informed Latency Prediction and Anomaly Detection
+
+- Physics-aware anomaly detection for networked systems, where available data is sparse and reliable extrapolation is required.
+
+- The model prioritises physically meaningful anomalies over purely data-driven sensitivity, favouring stability and interpretability under limited observability.
+
+- Focus: interpretable modeling, robustness, uncertainty estimation
+  
+- Implementation: linear regression, probabilistic anomaly detection
+  * [Code](https://github.com/suchitakulkarni/Physics_informed_latenty_prediction)
+  * [Streamlit interface](https://physics-informed-latency-pred.streamlit.app/)
+
 ### 🔹 Physics-Informed Latency prediction
 
 Physics-aware anomaly detection for networked systems. Improved sensitivity to rare, physically meaningful anomalies while stabilizing false-positive rates.
