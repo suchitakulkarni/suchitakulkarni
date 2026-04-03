@@ -52,7 +52,7 @@ Implementation: VAE architectures, physics-inspired density landscape from Top50
 - [Code](https://github.com/suchitakulkarni/Ramchandran_dashboard)
 - [Streamlit interface](https://github.com/suchitakulkarni/Ramchandran_dashboard)
 
-
+---
 ### 🔹 Structure-Aware Generative Models
 
 Exploration of VAE-based generative models in settings where unconstrained samples violate known physical structure.
