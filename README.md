@@ -44,6 +44,15 @@ Implementation: LSTM architectures, physics-informed loss terms, threshold-based
   - [Streamlit interface exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
 ---
 
+### 🔹 Physics-Inspired protein conformations
+Comparative study of physics-inspired VAE and purely data-driven VAE models for protein conformations 
+
+The work shows that it is 3 times more likely to generate Lovell viable protein conformations in the Ramchandran plane. 
+Implementation: VAE architectures, physics-inspired density landscape from Top500 dataset.
+- [Code](https://github.com/suchitakulkarni/Ramchandran_dashboard)
+- [Streamlit interface](https://github.com/suchitakulkarni/Ramchandran_dashboard)
+
+
 ### 🔹 Structure-Aware Generative Models
 
 Exploration of VAE-based generative models in settings where unconstrained samples violate known physical structure.
