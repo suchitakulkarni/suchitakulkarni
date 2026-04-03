@@ -40,7 +40,7 @@ The work favours physics-informed constraints to stabilise detection performance
 Focus: modeling assumptions, robustness, diagnostics
   
 Implementation: LSTM architectures, physics-informed loss terms, threshold-based evaluation
-  - [Code](https://github.com/suchitakulkarni/PI-LSTM)
+  - [Code](https://github.com/suchitakulkarni/anomaly_classification)
   - [Streamlit interface exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
 ---
 
