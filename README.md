@@ -53,17 +53,6 @@ Implementation: VAE architectures, physics-inspired density landscape from Top50
 - [Streamlit interface](https://github.com/suchitakulkarni/Ramchandran_dashboard)
 
 ---
-### 🔹 Structure-Aware Generative Models
-
-Exploration of VAE-based generative models in settings where unconstrained samples violate known physical structure.
-
-The approach constrains generation to preserve physical validity, accepting reduced diversity in exchange for consistency and downstream usability.
-
-Focus: representation learning, constraints, generalisation
-  
-Implementation: variational autoencoders, structured latent spaces, constraint-based regularisation
-  - Repository: (In progress)
----
 
 ### 🔹 Remaining Useful Life predictions on NASA turbofan dataset
 
