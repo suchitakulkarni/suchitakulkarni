@@ -28,7 +28,7 @@ Focus: modeling assumptions, robustness, diagnostics
   
 Implementation: LSTM architectures, physics-informed loss terms, threshold-based evaluation
   - [Code](https://github.com/suchitakulkarni/anomaly_classification)
-  - [Streamlit interface exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
+  - [Streamlit interface exploring hyperparameter importance on a simpler signal](https://pinnlearning.streamlit.app/)
 ---
 ### 🔹 Digital surrogate for TCAD Semiconductor Device Simulator and framework for deployment criteria
 
