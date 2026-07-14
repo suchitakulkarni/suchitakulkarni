@@ -1,6 +1,6 @@
-## Suchita Kulkarni (ML Research scientist/Data Scientist)
+## Hi, I am Suchita
 
-I work on problems where neither data nor first principles modelling alone is sufficient to make concrete progress. That principle drives my machine learning projects and my research interests in general. For two decades, I have developed several critical projects across international research institutions, to better understand the nature of dark matter. I now model real-world systems with the principles I have acquired through my experience. 
+I am a research data scientist. I work on problems where neither data nor first principles modelling alone is sufficient to make concrete progress. That principle drives my machine learning projects and my research interests in general. For two decades, I have developed several critical projects across international research institutions, to better understand the nature of dark matter. I now model real-world systems with the principles I have acquired through my experience. 
 
 ---
 
