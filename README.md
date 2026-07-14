@@ -1,6 +1,6 @@
 # Hi, I’m Suchita Kulkarni
 
-I am a machine learning engineer with a background in theoretical physics, focused on models that integrate structure, constraints, and domain knowledge into learning systems.
+ I am a machine learning engineer with a background in theoretical physics, focused on models that integrate structure, constraints, and domain knowledge into learning systems.
 
 My work sits at the intersection of machine learning, dynamical systems, and scientific modeling, with an emphasis on robustness, interpretability, and generalisation.
 
@@ -17,19 +17,6 @@ My work sits at the intersection of machine learning, dynamical systems, and sci
 
 ## Selected projects
 
-### 🔹  Physics-Informed Latency Prediction and Anomaly Detection
-
-Physics-aware anomaly detection for networked systems, where available data is sparse and reliable extrapolation is required.
-
-The model prioritises physically meaningful anomalies over purely data-driven sensitivity, favouring stability and interpretability under limited observability.
-
-Focus: interpretable modeling, robustness, uncertainty estimation
-  
-Implementation: linear regression, probabilistic anomaly detection
-  - [Code](https://github.com/suchitakulkarni/Physics_informed_latenty_prediction)
-  - [Streamlit interface](https://physics-informed-latency-pred.streamlit.app/)
-
----
 
 ### 🔹 Physics-Informed Time-Series Modeling and Anomaly Detection
 
@@ -42,6 +29,15 @@ Focus: modeling assumptions, robustness, diagnostics
 Implementation: LSTM architectures, physics-informed loss terms, threshold-based evaluation
   - [Code](https://github.com/suchitakulkarni/anomaly_classification)
   - [Streamlit interface exploring hyperparameter importance](https://pinnlearning.streamlit.app/)
+---
+### 🔹 Digital surrogate for TCAD Semiconductor Device Simulator and framework for deployment criteria
+
+A digital surrogate to explore semiconductor device characteristics across various device lengths and doping concentration for a 1D diode
+
+The work establishes a deployment criteria for the surrogate, which depends on simulation complexity and surrogate inference time.
+  
+Implementation: PINN architectures, physics-informed loss terms
+  - [Code](https://github.com/suchitakulkarni/DevSim_public)
 ---
 
 ### 🔹 Physics-Inspired protein conformations
@@ -64,13 +60,26 @@ Focus: uncertainty quantification, robustness, representation learning
   
 Implementation: random forests, uncertainty calibration, hyperparameter optimisation
   - [Code](https://github.com/suchitakulkarni/NASA_RUL_Predictions)
-  - [Streamlit interface for results](https://nasaruldashboard.streamlit.app/)
+---
+
+### 🔹  Physics-Informed Latency Prediction and Anomaly Detection
+
+Physics-aware anomaly detection for networked systems, where available data is sparse and reliable extrapolation is required.
+
+The model prioritises physically meaningful anomalies over purely data-driven sensitivity, favouring stability and interpretability under limited observability.
+
+Focus: interpretable modeling, robustness, uncertainty estimation
+  
+Implementation: linear regression, probabilistic anomaly detection
+  - [Code](https://github.com/suchitakulkarni/Physics_informed_latenty_prediction)
+  - [Streamlit interface](https://physics-informed-latency-pred.streamlit.app/)
+
 ---
 
 ## Background
 
 - PhD and habilitation in theoretical physics  
-- Experience leading research-oriented ML projects  
+- Experience leading research projects  
 - Strong focus on principled modeling and clean software design
 
 ---
